@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Demo](https://lingyanzhou.github.io/EarthquakeMap-Vue/#/)
+[Demo](https://lingyanzhou.github.io/GameOfLife_Angular2/)
 
 ## About
 
